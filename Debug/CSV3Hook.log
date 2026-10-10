@@ -1,0 +1,66 @@
+﻿  stdafx.cpp
+  CSV3Hook.cpp
+C:\Users\vanwa\OneDrive\Bureau\Conquer 27-02-2026\CSV3\CSV3Hook\CSV3Hook.cpp(20,33): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+  (compiler le fichier source '/CSV3Hook.cpp')
+  
+C:\Users\vanwa\OneDrive\Bureau\Conquer 27-02-2026\CSV3\CSV3Hook\CSV3Hook.cpp(20,33): warning C4309: 'initialisation' : troncation de valeur de constante
+  (compiler le fichier source '/CSV3Hook.cpp')
+  
+C:\Users\vanwa\OneDrive\Bureau\Conquer 27-02-2026\CSV3\CSV3Hook\CSV3Hook.cpp(20,39): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+  (compiler le fichier source '/CSV3Hook.cpp')
+  
+C:\Users\vanwa\OneDrive\Bureau\Conquer 27-02-2026\CSV3\CSV3Hook\CSV3Hook.cpp(20,39): warning C4309: 'initialisation' : troncation de valeur de constante
+  (compiler le fichier source '/CSV3Hook.cpp')
+  
+C:\Users\vanwa\OneDrive\Bureau\Conquer 27-02-2026\CSV3\CSV3Hook\CSV3Hook.cpp(20,45): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+  (compiler le fichier source '/CSV3Hook.cpp')
+  
+C:\Users\vanwa\OneDrive\Bureau\Conquer 27-02-2026\CSV3\CSV3Hook\CSV3Hook.cpp(20,45): warning C4309: 'initialisation' : troncation de valeur de constante
+  (compiler le fichier source '/CSV3Hook.cpp')
+  
+C:\Users\vanwa\OneDrive\Bureau\Conquer 27-02-2026\CSV3\CSV3Hook\CSV3Hook.cpp(20,51): warning C4838: la conversion de 'int' en 'char' requiert une conversion restrictive
+  (compiler le fichier source '/CSV3Hook.cpp')
+  
+C:\Users\vanwa\OneDrive\Bureau\Conquer 27-02-2026\CSV3\CSV3Hook\CSV3Hook.cpp(20,51): warning C4309: 'initialisation' : troncation de valeur de constante
+  (compiler le fichier source '/CSV3Hook.cpp')
+  
+C:\Users\vanwa\OneDrive\Bureau\Conquer 27-02-2026\CSV3\CSV3Hook\CSV3Hook.cpp(36,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiler le fichier source '/CSV3Hook.cpp')
+  
+C:\Users\vanwa\OneDrive\Bureau\Conquer 27-02-2026\CSV3\CSV3Hook\CSV3Hook.cpp(38,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiler le fichier source '/CSV3Hook.cpp')
+  
+C:\Users\vanwa\OneDrive\Bureau\Conquer 27-02-2026\CSV3\CSV3Hook\CSV3Hook.cpp(39,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiler le fichier source '/CSV3Hook.cpp')
+  
+C:\Users\vanwa\OneDrive\Bureau\Conquer 27-02-2026\CSV3\CSV3Hook\CSV3Hook.cpp(53,6): warning C4101: 'nPort' : variable locale non référencée
+  (compiler le fichier source '/CSV3Hook.cpp')
+  
+C:\Users\vanwa\OneDrive\Bureau\Conquer 27-02-2026\CSV3\CSV3Hook\CSV3Hook.cpp(52,7): warning C4101: 'szIPAddress' : variable locale non référencée
+  (compiler le fichier source '/CSV3Hook.cpp')
+  
+C:\Users\vanwa\OneDrive\Bureau\Conquer 27-02-2026\CSV3\CSV3Hook\CSV3Hook.cpp(103,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiler le fichier source '/CSV3Hook.cpp')
+  
+C:\Users\vanwa\OneDrive\Bureau\Conquer 27-02-2026\CSV3\CSV3Hook\CSV3Hook.cpp(175,39): warning C4474: 'sprintf' : trop d'arguments passés pour la chaîne de format
+  (compiler le fichier source '/CSV3Hook.cpp')
+      C:\Users\vanwa\OneDrive\Bureau\Conquer 27-02-2026\CSV3\CSV3Hook\CSV3Hook.cpp(175,39):
+      les espaces réservés et leurs paramètres attendent des arguments 0 variadiques, mais des arguments 1 ont été fournis
+  
+C:\Users\vanwa\OneDrive\Bureau\Conquer 27-02-2026\CSV3\CSV3Hook\CSV3Hook.cpp(194,39): warning C4474: 'sprintf' : trop d'arguments passés pour la chaîne de format
+  (compiler le fichier source '/CSV3Hook.cpp')
+      C:\Users\vanwa\OneDrive\Bureau\Conquer 27-02-2026\CSV3\CSV3Hook\CSV3Hook.cpp(194,39):
+      les espaces réservés et leurs paramètres attendent des arguments 0 variadiques, mais des arguments 1 ont été fournis
+  
+C:\Users\vanwa\OneDrive\Bureau\Conquer 27-02-2026\CSV3\CSV3Hook\CSV3Hook.cpp(175,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiler le fichier source '/CSV3Hook.cpp')
+  
+C:\Users\vanwa\OneDrive\Bureau\Conquer 27-02-2026\CSV3\CSV3Hook\CSV3Hook.cpp(194,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiler le fichier source '/CSV3Hook.cpp')
+  
+  Hook.cpp
+  LegacyCipher.cpp
+  Scan.cpp
+  Génération de code en cours...
+  dllmain.cpp
+  CSV3Hook.vcxproj -> C:\Users\vanwa\OneDrive\Bureau\Conquer 27-02-2026\CSV3\Debug\CSV3Hook.dll

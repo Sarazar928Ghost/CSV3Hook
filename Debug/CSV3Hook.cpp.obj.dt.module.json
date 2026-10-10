@@ -1,0 +1,15 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Debug\\CSV3Hook.obj",
+            "outputs": [
+                "Debug\\CSV3Hook.cpp.obj.dt.module.json",
+                "Debug\\CSV3Hook.cpp.obj.dt.d.json",
+                "Debug\\CSV3Hook.pch"
+            ],
+            "requires": []
+        }
+    ]
+}
